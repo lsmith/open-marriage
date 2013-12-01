@@ -1,11 +1,11 @@
 {
-    "name"       : "leslie-eric.us",
-    "description": "The open source website for Leslie Verploegen's and Eric Ferraiuolo's wedding.",
-    "homepage"   : "http://leslie-eric.us/",
-    "version"    : "1.8.0",
+    "name"       : "jesse-miranda.us",
+    "description": "The website for Jesse Gambetti's and Miranda's wedding.",
+    "homepage"   : "http://jesseandmiranda.com/",
+    "version"    : "0.1.0",
     "private"    : true,
 
-    "author": "Eric Ferraiuolo <eferraiuolo@gmail.com> (http://ericf.me/)",
+    "author": "Luke Smith <lsmith@lucassmith.name>",
 
     "license": "MIT",
 
