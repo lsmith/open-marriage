@@ -1,5 +1,3 @@
-console.log('Here');
-
 var http = require('http'),
     app  = require('./app'),
     port = app.get('port');
